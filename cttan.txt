@@ -1,0 +1,3 @@
+cara cepat bikin file baru:
+-  ctrl+alt+n
+- trus ketik folder yang dituju\namafile.ygdisimpan

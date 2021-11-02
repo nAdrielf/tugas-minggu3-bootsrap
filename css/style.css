@@ -1,10 +1,12 @@
-
+body {
+	padding: 0px;
+}
 .jumbotron {
-	background-image: url("bg.jpg");
+	background-image: url("../img/bg.jpg");
 	background-size: cover;
 	height: 600px;
 }
 .card {
 	margin-top: 150px;
-	margin-left: 250px;
+	
 }
